@@ -1,2 +1,4 @@
 test.wav
 /storage/emulated/0/TermuxAudioRecording_*.m4a
+audio/transcript.txt
+whisper.cpp/
